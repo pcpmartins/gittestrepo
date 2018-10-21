@@ -1,10 +1,2 @@
-first wrong modification on branch one
-second wrong modification on branch one
 
-
-
-
-
-
-
-use "git reset HEAD <file>..." to unstage)[not pushed data, only commited locally]
+revert
